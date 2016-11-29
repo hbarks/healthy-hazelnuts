@@ -9,6 +9,14 @@ h1 {
 		color: grey;
 		text-align: center;
 		font-size: 30px;
+		font-size: 45px;
+		font-family: 'Sofia', cursive;
+	}
+
+#subscribe {
+	text-align: center; 
+	font-size: 10px;
+	font-family:'Sofia', cursive;
 	}
 
 	#nuts img {
@@ -36,6 +44,8 @@ li {    width: 100%;
     list-style: none;
     text-align: center;
 	font-family: 'Dancing Script', cursive;
+=======
+	font-family: 'Sofia', cursive;
 	font-size: 40px;
 	font-weight: bold;
 	}
@@ -70,3 +80,4 @@ iframe{
 #subscribe {
 	text-align: center; 
 	}
+
